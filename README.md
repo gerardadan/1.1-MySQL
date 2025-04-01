@@ -5,6 +5,8 @@
 This project involves designing a **MySQL database** for managing suppliers, customers, employees, and sales of an optics store named **"Cul d'Ampolla"**.
 
 ---
+![Alt Text](Level_01_ex_01_model.png)
+---
 
 ## 🚀 Database Schema
 
